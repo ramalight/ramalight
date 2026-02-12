@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in AI sector **Three Friend**
 
-- 🌱 I’m currently learning **DeepLearning**
+- 🌱 I’m currently learning **API Calls**
 
 - 👯 I’m looking to collaborate on **Three Friend**
 
